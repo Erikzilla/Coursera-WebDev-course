@@ -1,0 +1,58 @@
+body {
+	font-size: 16px;
+	color: white;
+	background-color: darkgray;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+	background-color: aliceblue;
+	border-style: solid;
+	border-color: black;
+	border-radius: 0;
+	border-width: 3px;
+	height: 100px;
+}
+
+.navbar-brand h1{
+	color: black;
+	font-size: 2em;
+	margin-top: 10px;	
+}
+
+
+a {
+	text-decoration: none;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#nav-list{
+	margin-top: 45px;
+	background-color: darkslategray;
+}
+
+#nav-list a {
+	color: aliceblue;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: black;
+	font-size: 1.6em;
+}
+
+#collapsable-nav {
+	border: 0;
+}
+.mem{
+	background-color: darkslateblue;
+	margin-top: 30px;
+}
+
+.row{
+	margin-left: 10px;
+	margin-right: 10px;
+}
